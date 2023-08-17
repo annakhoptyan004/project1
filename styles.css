@@ -1,0 +1,147 @@
+ul {
+  list-style: none;
+}
+
+h2 {
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+}
+
+div {
+  outline: 2px solid red;
+  width: 1440px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+button {
+  font-family: "HeadlandOne";
+  font-weight: 400;
+  font-size: 24px;
+  text-align: center;
+  width: 140px;
+  color: #26c6ea;
+  background-color: #0b0e66;
+  border: 2px solid #26c6ea;
+  border-radius: 35px 0px;
+  /* padding-top: 25px; */
+}
+
+/* .navigation {
+  height: 150px;
+} */
+
+/* .nav-list {
+  display: flex;
+  justify-content: flex-start;
+} */
+
+.nav-link {
+  font-family: "Inter";
+  font-size: 20px;
+  font-weight: 300;
+  color: white;
+}
+
+.nav-link-main {
+  font-family: "Inter";
+  font-size: 20px;
+  font-weight: 600;
+  color: #94cfff;
+}
+
+.main-list-text {
+  font-family: "Inter";
+  font-size: 20px;
+  font-weight: 400;
+}
+
+.quote-text {
+  font-family: "Inter";
+  font-weight: 400;
+  font-size: 36px;
+}
+
+.first-quote-text {
+  color: #0a3853;
+  font-family: "Inter";
+  font-weight: 400;
+  font-size: 36px;
+}
+
+.quotes-author {
+  font-family: "Inter";
+  font-weight: 400;
+  font-size: 24px;
+  text-align: center;
+}
+
+.language-header {
+  font-family: "Headland One";
+  font-weight: 400;
+  font-size: 32px;
+  text-align: center;
+}
+
+.language-list-text {
+  font-family: "Headland One";
+  font-weight: 400;
+  font-size: 24px;
+}
+
+.nav-list,
+.second-nav-list {
+  display: flex;
+  justify-content: space space-between;
+  gap: 38px;
+}
+
+.navigation {
+  height: 150px;
+}
+
+.trailer-button {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.language-list-item {
+  width: 320px;
+  height: 240px;
+  outline: dashed 2px black;
+}
+
+.big-bird-image {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.main-list-text {
+  width: 300px;
+}
+
+.trailer {
+  height: 740px;
+  background-image: url("../images/Rectangle-10.png");
+}
+
+.nav-list {
+  display: flex;
+  justify-content: center;
+  gap: 40px;
+}
+
+.second-nav-list {
+  display: flex;
+  justify-content: end;
+  gap: 50px, 10px, 10px;
+}
+
+.nav {
+  height: 150px;
+  background-image: url("../images/Rectangle104.png");
+  box-shadow: 87% #2b4a61;
+}
